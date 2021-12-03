@@ -13,6 +13,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <h1 align="center">
   Project 1: Zoo Authentication
 </h1>
+<div align="center">
+  <a href="https://github.com/graves-a/ZooAuthentication">GitHub</a>
+</div>
+
 
 ```markdown
 Placeholder for description of project 1
@@ -21,6 +25,9 @@ Placeholder for description of project 1
 <h1 align="center">
   Project 2: Data structures and algorithms time complexity
 </h1>
+<div align="center">
+  <a href="https://github.com/graves-a/DataStructures">GitHub</a>
+</div>
 
 ```markdown
 Placeholder for description of project 2
@@ -30,6 +37,9 @@ Placeholder for description of project 2
 <h1 align="center">
   Project 3: Database creator
 </h1>
+<div align="center">
+  <a href="https://github.com/graves-a/DatabaseCreator">GitHub</a>
+</div>
 
 ```markdown
 Placeholder for description of project 3

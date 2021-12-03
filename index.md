@@ -1,7 +1,7 @@
 ---
 title: "Alan Graves's ePortfolio"
 ---
-<button type="button1" onclick="alert('Hello world!')">Click Me!</button>
+<button class="button button1">New button</button>
 <h1 align="center">
   About Me
 </h1>

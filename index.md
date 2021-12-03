@@ -1,7 +1,11 @@
 ---
 title: "Alan Graves's ePortfolio"
 ---
-<button class="button button1">New button</button>
+<div align="center">
+  <button class="button">New button<a href="https://github.com/graves-a/ZooAuthentication"></a></button>
+  
+</div>
+  
 <h1 align="center">
   About Me
 </h1>

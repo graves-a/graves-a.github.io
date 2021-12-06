@@ -23,10 +23,9 @@ I don’t have as much experience with C++ as I do with Java and Python, but it 
   <a href="https://github.com/graves-a/ZooAuthentication">GitHub</a>
 </div>
 
-```markdown
 Zoo Authentication is an app written in C++ that utilizes sqlite3. It stores usernames and encrypted passwords using SHA2 in the database. When the user logs in, they are able to see their "role" at the zoo as well as update their role, their username, and their password. This app was originally written in Java and the user information and roles were stored in plain text files with no encryption or input validation. I wanted to convert it to C++ to get more experience with that language.
 [Link](url) and ![Image](src)
-```
+
 <h1 align="center">
   Project 2: Data structures and algorithms time complexity
 </h1>
@@ -34,10 +33,8 @@ Zoo Authentication is an app written in C++ that utilizes sqlite3. It stores use
   <a href="https://github.com/graves-a/DataStructures">GitHub</a>
 </div>
 
-```markdown
 Data Structures is an app written in C++ that allows you to see the time complexity of the different data structures and alogirthms. It is included with a csv file that has around 18,000 entries from a fake auction with details such as bidID, the name of the item, the fund, and the winning bid amount. You are able to load the csv file into a vector, linked list, hash table, and binary search tree. Each time the csv file is loaded, it will tell you how long it took to load all entries as well as the total entries loaded. From here you can do things such as search for an entry, order the entries, delete and entry, and display all entries to the console.
 [Link](url) and ![Image](src)
-```
 
 <h1 align="center">
   Project 3: Database creator
@@ -46,7 +43,6 @@ Data Structures is an app written in C++ that allows you to see the time complex
   <a href="https://github.com/graves-a/DatabaseCreator">GitHub</a>
 </div>
 
-```markdown
 Database Creator is an app written in C++ that utilizes sqlite3. When the app is first launched, you are given two choices to either create a new database or access an existing one. If you choose to create a new one, it will then prompt you where to save the database. If you choose to access an existing database, you will enter the location of the database and then be greated with the tools needed to maintain it. You can create new tables, get a list of existing tables, insert data into any table, update data, remove entries, and delete the entire table.
 [Link](url) and ![Image](src)
-```
+

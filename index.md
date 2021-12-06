@@ -1,11 +1,6 @@
 ---
 title: "Alan Graves's ePortfolio"
----
-<div align="center">
-  <button type="button" onclick="https://github.com/graves-a/ZooAuthentication">Click Me!</button> 
-</div>
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
-  
+---  
 <h1 align="center">
   About Me
 </h1>

@@ -9,7 +9,18 @@ title: "Alan Graves's ePortfolio"
 <h1 align="center">
   About Me
 </h1>
-For most of my career, I have been an electronics technician. It wasn't until I started working with the development team where I gain exposure to software developers and decided I wanted to make a change. I enrolled at Southern New Hampshire University to pursue a Bachelor's of Computer Science to become a software engineer. Most of the program focused on Java and Python with a little bit of C/C++ here and there but I've grown to favor C++. I am finishing up my final term and this ePortfolio was developed during my capstone class as my final project.
+Hello, I’m Alan Graves.
+I started my journey to become a Software Engineer at the end of 2018. For most of my career, I’ve been an electronics technician/engineering technician where I built, tested, and troubleshooted electronic devices in aviation, oil and gas, and most recently, consumer electronics. It wasn’t until I joined the Engineering department and saw the products being developed that inspired me to go to school to become a Software Engineer. Throughout the computer science program at SNHU, I mainly used Java and Python with a little C/C++ here and there. After starting my internship with the high-level team at Garmin, I really grew to love C++. I am now in my final term for my Bachelor’s of Computer Science with a concentration in Software Engineering.
+
+## Java
+I am confident in my skills with Java as that is the programming language I’ve spent the most time with throughout the computer science program. I’ve made several programs in the various courses as well as some outside of school. This was the language of choice when doing coding problems on CodeForces to work on my problem-solving skills. I also have some experience with android development where I made a tile game
+
+## Python
+Python is the second language I have the most experience with as many classes I took at SNHU used Python. I’ve written several programs both for school and outside of school as well as a program I used while I was an engineering technician to help with radiated emissions testing during data transfer to and from the device under test.
+
+## C++
+I don’t have as much experience with C++ as I do with Java and Python, but it is becoming my language of choice here recently. I only had a few classes that were in C++ such as the data structures and algorithms class and OpenGL, but I really started enjoying it during my internship. I have around three months of experience, not including schoolwork, developing in C++ where I worked on elements of the GUI for consumer products as well as speech recognition.
+
 
 You can use the [editor on GitHub](https://github.com/graves-a/graves-a.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

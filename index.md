@@ -43,7 +43,7 @@ Data Structures is an app written in C++ that allows you to see the time complex
 
 The Data Structures app was created in CS-260 during the summer of 2020. The original program was a series of small programs, one for each data structure that would display the time it took to load data into those strucutres and how long it took to search for a particular item. Some enhancements that were made are combining all the smaller programs into one large one and increasing the amount of items being stored from 140 to around 18,000 to get a better idea of the time the different data strucutrues take. I also cleaned up the code by adding more descriptive comments and removing unnecessary ones as well as improved the naming conventions of some of the variables. A challenge I faced when making this program was with the binary search tree. I was hitting stack overflow errors when trying to load that many items and I found out that the csv file was pretty much already in order making the tree unbalanced.
 
-![Data Structures example](https://github.com/graves-a/graves-a.github.io/blob/master/docs/assets/Structures_main.jpg)
+![Data Structures example](https://raw.githubusercontent.com/graves-a/graves-a.github.io/master/docs/assets/Structures_main.jpg)
 
 <h1 align="center">
   Project 3: Database creator
@@ -56,5 +56,5 @@ Database Creator is an app written in C++ that utilizes sqlite3. When the app is
 
 Database Creator is an app from DAD-220. The app started off as just a list of SQL commands to showcase my knowledge in SQL. I have taken those commands and created a new user interface that utilizes database manipulation and is written in C++ and uses sqlite3. The user is now able to create a new database and specify where that database will be stored. Once a database is selected, they can create a new table or manipulate an existing one. They can add as many columns to the table as they desire. They see a list of available tables as well as search for an entry, update an entry, and delete an entry. The user can also see all entries in a table as well as delete a selected table. A challenge I faced when making this was how to handle the table information such as the table name along with the name of the columns to make it easier to enter new entries into a table. I started off with a structure that held a column count as an integer, a vector of strings for the columns and a vector of table names. I later decided to just go with an unordered map with the key being the table name the the data being a vector of column names. To make it easier to display and selet the table, I also have a vector of the table names.
 
-![Database Creator example](https://github.com/graves-a/graves-a.github.io/blob/master/docs/assets/Database_main.jpg)
+![Database Creator example](https://raw.githubusercontent.com/graves-a/graves-a.github.io/master/docs/assets/Database_main.jpg)
 

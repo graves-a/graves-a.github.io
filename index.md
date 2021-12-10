@@ -26,8 +26,9 @@ I don’t have as much experience with C++ as I do with Java and Python, but it 
 Zoo Authentication is an app written in C++ that utilizes sqlite3. It stores usernames and encrypted passwords using SHA2 in the database. When the user logs in, they are able to see their "role" at the zoo as well as update their role, their username, and their password. This app was originally written in Java and the user information and roles were stored in plain text files with no encryption or input validation. I wanted to convert it to C++ to get more experience with that language.
 
 The Zoo Authentication app was created in IT-145 during my first few terms of the computer science program. The main goal of the application was to have a user log in with a username and password, check those credentials against a plain text file and return their "role" from a different text file. I chose to include this project in my portfolio because it has the potential to be used in a real world environment. Some improvements that were made are the SHA2 encryption of the password as well as hiding the password when the user is typing it to enhance security as well as validating user input, converting where the data is stored from text files to a sqlite3 database, and added functionality such as the ability to create a new user, update their role, change their username, and change their password. The program was also converted from Java to C++. The main challenge when enhancing this project was converting it from Java to C++ as C++ isn't my specialty. Also, this was the first time I've built a program from the ground up. 
-
-<img src="blob/master/docs/assets/Zoo_main.JPG">
+<div align="center">
+  <img src="https://github.com/graves-a/graves-a.github.io/blob/master/docs/assets/Zoo_main.jpg">
+</div>
 
 <h1 align="center">
   Project 2: Data structures

@@ -30,6 +30,8 @@ The Zoo Authentication app was created in IT-145 during my first few terms of th
   <img src="https://raw.githubusercontent.com/graves-a/graves-a.github.io/master/docs/assets/Zoo_main.jpg">
 </div>
 
+<img src="https://github.com/graves-a/graves-a.github.io/blob/master/docs/assets/Zoo_3.png">
+
 <h1 align="center">
   Project 2: Data structures
 </h1>
